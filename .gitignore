@@ -1,0 +1,2 @@
+# ignore generated audit files
+/audit/*.csv
